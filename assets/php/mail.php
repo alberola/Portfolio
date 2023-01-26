@@ -17,7 +17,7 @@
       $name = limpiar($_POST['name']);
       $subject = limpiar($_POST['subject']);
       $email = limpiar($_POST['email']);
-      $text = limpiar($_POST['mensaje']);
+      $text = limpiar($_POST['message']);
       $footer = "Mensaje enviado desde la página de alberola.departamentoinformaticajmpp.com";
 
       $content = "Email: ". $email."\nAutor: ".$name."\nMensaje: ". $text."\n".$footer;
