@@ -201,8 +201,6 @@ img {
 }
 .cv{
     display: inline-flex;
-    align-items: center;
-    justify-content: center;
     border-radius: 100px;
     font-size: 24px;
 }
