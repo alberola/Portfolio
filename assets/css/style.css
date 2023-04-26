@@ -144,7 +144,7 @@ img {
     position: absolute;
     left: 0;
     top: 110%;
-    transition: all 0.4s;
+    transition: all 0.6s;
 }
 
 .link-custom:hover::after {
@@ -161,7 +161,7 @@ img {
 }
 
 .card-custom .card-custom-image img {
-    transition: all 0.4s ease;
+    transition: all 0.7s ease;
     min-height: 358px;
 }
 
