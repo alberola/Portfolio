@@ -30,6 +30,10 @@
   font-family: "bebas";
 }
 
+.imgEvent {
+  transition: all 0.3s;
+}
+
 .imgEvent:hover {
   cursor: pointer;
   transform: scale(1.2);

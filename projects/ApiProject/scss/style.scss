@@ -38,6 +38,11 @@
 *{
     font-family: $bebas;
 }
+
+.imgEvent {
+    transition: all .3s;
+}
+
 .imgEvent:hover{
     cursor: pointer;
     @include transform(scale(1.2))
