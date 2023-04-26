@@ -151,6 +151,10 @@ img {
     width: 100%;
 }
 
+.cursor-pointer {
+    cursor: pointer;
+}
+
 /* CARD */
 .card-custom .card-custom-image {
     overflow: hidden;
@@ -184,9 +188,9 @@ img {
     height: 44px;
 }
 
-/* SOCIAL ICONS */
-.social-icons {
-
+/* SHOW MORE PROJECTS */
+.moreProjectsContainer {
+    display: none;
 }
 
 .social-icons a {
