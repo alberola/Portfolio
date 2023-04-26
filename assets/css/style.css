@@ -170,8 +170,8 @@ img {
 }
 
 .card-custom {
-    min-height: 530px;
-    max-height: 531px;
+    height: 530px;
+    max-width: 634px;
 }
 
 /* CONTACT */
