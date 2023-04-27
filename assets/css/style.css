@@ -171,6 +171,7 @@ img {
 
 .card-custom {
     height: 530px;
+    max-height: 570px;
     max-width: 634px;
 }
 
@@ -196,6 +197,10 @@ img {
 
 #contact input.form-control {
     height: 44px;
+}
+
+.paddingBot {
+    margin-bottom: 100px;
 }
 
 /* SHOW MORE PROJECTS */
