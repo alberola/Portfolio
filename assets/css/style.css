@@ -173,13 +173,15 @@ img {
 }
 
 .card-custom {
-    height: 530px;
+    min-height: 560px;
+    height: auto;
     max-height: 570px;
     max-width: 634px;
+    padding-bottom: 2%;
 }
 
-.card-custom-content{
-    padding-bottom: 5px;
+.card-custom-content {
+    padding-bottom: 5%;
 }
 
 /* CONTACT */
