@@ -78,9 +78,6 @@ img {
 .navbar {
     background-color: var(--color-base);
 }
-.padding-left {
-    padding-left: 40px;
-}
 
 .navbar .nav-link {
     font-weight: 700;
