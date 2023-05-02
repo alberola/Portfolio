@@ -50,8 +50,6 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-top: 80px;
-    padding-bottom: 80px;
     border-bottom: 2px solid rgba(255,255,255, 0.1);
 }
 
@@ -204,10 +202,7 @@ img {
 }
 
 
-/* SHOW MORE PROJECTS */
-.moreProjectsContainer {
-    display: hidden;
-}
+/*SOCIAL ICONS */
 
 .social-icons {
     position: relative;
