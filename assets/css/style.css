@@ -86,7 +86,6 @@ img {
 /* NAVBAR */
 .navbar {
     background-color: var(--color-base);
-    /*PREGUNTAR A INES*/
     padding-left: 1%;
 }
 
@@ -239,6 +238,7 @@ img {
     font-size: 14px;
     border-radius: 4px;
     transition: opacity 0.2s ease-in-out;
+    /* To dont have 2 rows and disable hover effect on hovering span */
     pointer-events: none;
     white-space: nowrap;
 }
